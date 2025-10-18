@@ -60,3 +60,46 @@ This project analyzes consumer complaint data from the Consumer Financial Protec
 ---
 
 ##  Sentiment Analysis 
+#### Use case1: 
+For Credit card, consumers show the most positive sentiment toward First Data Corporation.
+
+Key insights:
+• Sentiment score: 0.072 (range: -1 to +1)
+• Based on 5 complaints analyzed
+• Customers frequently express satisfaction and good experiences with their credit card services
+
+Rankings:
+1. First Data Corporation
+   Sentiment Score: 0.072
+   Complaints Analyzed: 5
+
+2. Boeing Employees' Credit Union
+   Sentiment Score: 0.070
+   Complaints Analyzed: 5
+
+3. SunTrust Banks, Inc.
+   Sentiment Score: 0.067
+   Complaints Analyzed: 9
+
+#### Use case2:
+For Debt collection, consumers show the most negative sentiment toward The Phoenix Recovery Group.
+
+Key insights:
+• Sentiment score: -0.181 (range: -1 to +1)
+• Based on 6 complaints analyzed
+• Customers frequently express frustration and poor experiences with their debt collection services
+
+Rankings:
+1. The Phoenix Recovery Group
+   Sentiment Score: -0.181
+   Complaints Analyzed: 6
+
+2. Servatus Corporation
+   Sentiment Score: -0.185
+   Complaints Analyzed: 6
+
+3. Collections Acquisition Company, Inc.
+   Sentiment Score: -0.357
+   Complaints Analyzed: 9
+________________________________________________________________________________
+
